@@ -15,8 +15,7 @@ The following **required** functionality is completed:
 - [ ] User can use basic wordle functionality with a different goal word each time you run the app.
  
 ## Video Walkthrough
-
-![](https://submissions.us-east-1.linodeobjects.com/ios101/72NS_NyD.gif)
+<img src=“https://submissions.us-east-1.linodeobjects.com/ios101/72NS_NyD.gif" width=300>
 
 ## Notes
 
